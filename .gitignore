@@ -131,6 +131,4 @@ dmypy.json
 # Excel/SQL files/logs
 .xlsx
 .sql
-logs/
-Process_Files/
-SQL_Scripts/
+
